@@ -1,4 +1,4 @@
-#even or ODD
+
 
 #include<stdio.h>
 
@@ -15,4 +15,5 @@ else
   printf("odd");
 }
 
+this is the prg to find whether a num is odd or eve
 
